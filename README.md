@@ -1,5 +1,5 @@
 # Проект: Путешествие по России
-# https://sokolovalex172.github.io/russian-travel/
+# https://sokolovalex172.github.io/russian-travel/index.html
 ### Обзор
 * Интро
 * Figma
