@@ -1,0 +1,13 @@
+.place__text {
+    display: flex;
+    flex-direction: column;
+    max-width: 484px;
+}
+
+@media (max-width: 767px) {
+    .place__text {
+        padding: 0 16px;
+        max-width: 100%;
+
+    }
+}
