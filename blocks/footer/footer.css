@@ -19,15 +19,3 @@
         align-items: start;
     }
 }
-
-@media (max-width: 767px) {
-    .footer__links {
-        display: flex;
-        flex-direction: column;
-        margin-bottom: 48px;
-    }
-
-    .footer__links:last-child {
-        margin-bottom: 0;
-    }
-}
