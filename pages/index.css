@@ -14,7 +14,7 @@
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__lang/header__lang.css);
 @import url(../blocks/header/__lang/header__lang-link.css);
-@import url(../blocks/header/__lang/_active/header__lang_active.css);
+@import url(../blocks/header/__lang-active/header__lang-active.css);
 
 /*lead*/
 @import url(../blocks/lead/lead.css);
