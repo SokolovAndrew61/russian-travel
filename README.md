@@ -1,4 +1,4 @@
 # Проект: Путешествие по России
 ## Реализованна верстка одностраничного сайти + адаптив 
 ## В проекте использовалась адаптация сайта под различные устройства.
-# https://sokolovalex172.github.io/russian-travel/index.html
+# https://SokolovAndrew61.github.io/russian-travel/index.html
